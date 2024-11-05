@@ -1,4 +1,12 @@
-## Hi there 👋
+## ![octo](https://github.com/images/mona-whisper.gif) Hi there 👋  
+
+[![wakatime](https://wakatime.com/badge/user/a70e5791-db6f-4368-aacc-0332a969bb3e.svg)](https://wakatime.com/@a70e5791-db6f-4368-aacc-0332a969bb3e)
+
+![time table](https://wakatime.com/share/@a70e5791-db6f-4368-aacc-0332a969bb3e/c6761f22-d228-44b1-a350-ddf0a9aa0290.svg)
+
+<figure><embed src="https://wakatime.com/share/@a70e5791-db6f-4368-aacc-0332a969bb3e/a48656bd-43e4-4e65-970f-21ece17c3c7c.svg"></embed></figure>
+
+![time chart](https://wakatime.com/share/@a70e5791-db6f-4368-aacc-0332a969bb3e/a48656bd-43e4-4e65-970f-21ece17c3c7c.svg)
 
 <!--
 **SmileMachine/SmileMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
